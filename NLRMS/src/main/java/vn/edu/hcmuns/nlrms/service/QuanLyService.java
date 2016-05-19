@@ -1,5 +1,5 @@
 package vn.edu.hcmuns.nlrms.service;
 
-public class sdfsdf {
+public interface QuanLyService {
 
 }
